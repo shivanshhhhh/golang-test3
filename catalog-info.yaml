@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: "golang-ci-cd"
   annotations:
-    backstage.io/managed-by-location: url:https://github.com/shivanshhhhh/golang-test3/edit/master/catalog-info.yaml
+    backstage.io/managed-by-location: url:https://github.com/shivanshhhhh/golang-test3/blob/master/catalog-info.yaml
 spec:
   type: service
   owner: user:guest
