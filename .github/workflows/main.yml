@@ -29,7 +29,6 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: shivanshhhhh:latest
 
       - name: Image digest
         run: echo 
