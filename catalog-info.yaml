@@ -3,7 +3,8 @@ kind: Component
 metadata:
   name: "golang-ci-cd"
   annotations:
-    backstage.io/managed-by-location: url:https://github.com/shivanshhhhh/golang-test3/blob/master/catalog-info.yaml
+     github.com/project-slug: shivanshhhhh/golang-test3
+     github.com/actions: 'workflow_dispatch'
 spec:
   type: service
   owner: user:guest
