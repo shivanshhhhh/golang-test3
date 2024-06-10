@@ -4,7 +4,6 @@ metadata:
   name: "golang-ci-cd"
   annotations:
      github.com/project-slug: shivanshhhhh/golang-test3
-     github.com/actions: 'workflow_dispatch'
 spec:
   type: service
   owner: user:guest
